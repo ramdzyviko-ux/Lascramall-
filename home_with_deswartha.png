@@ -1,0 +1,245 @@
+- generic [ref=f2e3]:
+  - generic [ref=f2e5]:
+    - generic "Page dots" [ref=f2e6]:
+      - 'button "Go to page 1: home" [ref=f2e7] [cursor=pointer]'
+      - 'button "Go to page 2: about" [ref=f2e8] [cursor=pointer]'
+      - 'button "Go to page 3: business" [ref=f2e9] [cursor=pointer]'
+      - 'button "Go to page 4: parent" [ref=f2e10] [cursor=pointer]'
+      - 'button "Go to page 5: values" [ref=f2e11] [cursor=pointer]'
+      - 'button "Go to page 6: contact" [ref=f2e12] [cursor=pointer]'
+    - generic [ref=f2e14]: Geser Halaman
+  - banner [ref=f2e15]:
+    - generic [ref=f2e17]:
+      - button "PT Lascramall Commerce Network Home" [ref=f2e18] [cursor=pointer]:
+        - generic [ref=f2e19]:
+          - img "LASCRAMALL Emblem" [ref=f2e21]
+          - generic [ref=f2e23]:
+            - generic [ref=f2e24]: LASCRA
+            - generic [ref=f2e25]: MALL
+      - generic [ref=f2e26]:
+        - button "Ganti Bahasa" [ref=f2e27] [cursor=pointer]:
+          - generic [ref=f2e31]: id
+        - button "Buka navigasi" [ref=f2e32] [cursor=pointer]
+  - main [ref=f2e34]:
+    - generic [ref=f2e36]:
+      - generic [ref=f2e38]:
+        - generic [ref=f2e39]:
+          - generic [ref=f2e40]:
+            - generic [ref=f2e41]: PT LASCRAMALL COMMERCE NETWORK
+            - generic [aria-hidden] [ref=f2e42]: ·
+            - generic [ref=f2e43]: CORPORATE OVERVIEW
+          - generic [ref=f2e45]:
+            - generic [ref=f2e46]: PT Lascramall Commerce Network is part of
+            - button "Deswartha Group" [ref=f2e47] [cursor=pointer]
+        - generic [ref=f2e51]:
+          - generic [ref=f2e52]:
+            - heading "Connecting Business. Empowering Digital Commerce." [level=1] [ref=f2e54]
+            - paragraph [ref=f2e56]: PT Lascramall Commerce Network membangun infrastruktur dan ekosistem perdagangan digital modern yang menghubungkan entitas bisnis, memperluas akses pasar, serta mengintegrasikan solusi teknologi perdagangan berskala besar secara aman dan berkelanjutan.
+            - generic [ref=f2e58]:
+              - button "Tentang Perusahaan" [ref=f2e59] [cursor=pointer]
+              - button "Eksplorasi Bidang Usaha" [ref=f2e63] [cursor=pointer]
+            - generic [ref=f2e69]:
+              - generic [ref=f2e76]:
+                - generic [ref=f2e77]: 5 Pilar Strategis
+                - paragraph [ref=f2e78]: Ekosistem perdagangan digital hulu-ke-hilir
+              - generic [ref=f2e84]:
+                - generic [ref=f2e85]: Standar Tata Kelola
+                - paragraph [ref=f2e86]: Kepatuhan regulasi komprehensif di Indonesia
+              - generic [ref=f2e94]:
+                - generic [ref=f2e95]: Jaringan Multi-Tenant
+                - paragraph [ref=f2e96]: Arsitektur skala besar berkapasitas tinggi
+          - generic [ref=f2e99]:
+            - img "PT Lascramall Commerce Network Corporate Headquarters" [ref=f2e101]
+            - generic [ref=f2e102]:
+              - generic [ref=f2e103]:
+                - generic [ref=f2e104]: LASCRAMALL CORPORATE ECOSYSTEM
+                - generic [ref=f2e105]: Jakarta, Indonesia · Enterprise Digital Commerce
+              - generic [ref=f2e106]: Headquarters
+      - generic [ref=f2e114]:
+        - generic [ref=f2e115]:
+          - generic [ref=f2e117]:
+            - generic [ref=f2e118]: OVERVIEW PERUSAHAAN
+            - generic [ref=f2e119]: ·
+            - generic [ref=f2e120]: PT LASCRAMALL COMMERCE NETWORK
+          - heading "Mitra Strategis dalam Penguatan Ekosistem Niaga Digital Nasional" [level=2] [ref=f2e122]
+          - paragraph [ref=f2e124]: PT Lascramall Commerce Network didirikan untuk membangun infrastruktur perdagangan terpadu yang memadukan keunggulan teknologi komersial, agregasi produk digital esensial, aset hiburan interaktif, dan jaringan distribusi berskala enterprise.
+          - generic [ref=f2e126]:
+            - generic [ref=f2e127]:
+              - generic [ref=f2e128]: 5 Pilar
+              - generic [ref=f2e129]: Bidang Usaha
+            - generic [ref=f2e130]:
+              - generic [ref=f2e131]: 100% Legal
+              - generic [ref=f2e132]: Regulasi RI
+            - generic [ref=f2e133]:
+              - generic [ref=f2e134]: B2B & Ent.
+              - generic [ref=f2e135]: Kemitraan
+          - generic [ref=f2e137]:
+            - button "Pelajari Profil Lengkap Perusahaan" [ref=f2e138] [cursor=pointer]
+            - button "Deswartha Group (Parent)" [ref=f2e142] [cursor=pointer]
+        - generic [ref=f2e148]:
+          - generic [ref=f2e149]: Struktur Identitas Korporat
+          - generic [ref=f2e155]:
+            - generic [ref=f2e156]:
+              - generic [ref=f2e157]: "Badan Hukum Terdaftar:"
+              - text: PT LASCRAMALL COMMERCE NETWORK
+            - generic [ref=f2e158]:
+              - generic [ref=f2e159]: Afiliasi Induk Perusahaan
+              - generic [ref=f2e160]:
+                - text: PT Lascramall Commerce Network is part of
+                - button "Deswartha Group" [ref=f2e161] [cursor=pointer]
+            - generic [ref=f2e164]:
+              - generic [ref=f2e165]: "Merek Niaga Utama:"
+              - text: LASCRAMALL
+            - generic [ref=f2e170]:
+              - generic [ref=f2e171]: "Kantor Operasional:"
+              - generic [ref=f2e172]: Jl. Tambun Rengas. Cakung Timur, Jakarta Timur 13910, Indonesia
+            - generic [ref=f2e177]:
+              - generic [ref=f2e178]: "Jam Layanan:"
+              - generic [ref=f2e179]: "Senin – Minggu: 08.00 – 21.00 WIB (Kecuali Hari Libur Nasional)"
+          - button "Lihat Visi, Misi & Filosofi Korporasi →" [ref=f2e181] [cursor=pointer]
+      - generic [ref=f2e183]:
+        - generic [ref=f2e185]:
+          - generic [ref=f2e186]:
+            - generic [ref=f2e187]:
+              - generic [ref=f2e188]: PORTFOLIO BISNIS
+              - generic [ref=f2e189]: /
+              - generic [ref=f2e190]: 5 PILAR STRATEGIS
+            - heading "Pilar Bidang Usaha LASCRAMALL" [level=2] [ref=f2e191]
+          - button "Lihat Semua Spesifikasi" [ref=f2e192] [cursor=pointer]
+        - generic [ref=f2e196]:
+          - generic [ref=f2e198] [cursor=pointer]:
+            - generic [ref=f2e199]:
+              - generic [ref=f2e200]: Pilar 01
+              - heading "Ecommerce & Digital Commerce" [level=3] [ref=f2e206]
+              - paragraph [ref=f2e207]: Fondasi perdagangan digital terintegrasi yang menghubungkan prinsipal bisnis, produsen, dan konsumen melalui kanal distribusi modern berstandar tinggi.
+            - generic [ref=f2e208]:
+              - generic [ref=f2e209]: Kapabilitas Terintegrasi
+              - generic [ref=f2e210]: Detail
+          - generic [ref=f2e214] [cursor=pointer]:
+            - generic [ref=f2e215]:
+              - generic [ref=f2e216]: Pilar 02
+              - heading "Online Marketplace" [level=3] [ref=f2e223]
+              - paragraph [ref=f2e224]: Pengembangan ekosistem pasar daring multi-tenant berkapasitas tinggi untuk memfasilitasi pertukaran nilai dan kolaborasi lintas pelaku usaha.
+            - generic [ref=f2e225]:
+              - generic [ref=f2e226]: Kapabilitas Terintegrasi
+              - generic [ref=f2e227]: Detail
+          - generic [ref=f2e231] [cursor=pointer]:
+            - generic [ref=f2e232]:
+              - generic [ref=f2e233]: Pilar 03
+              - heading "Digital Products & Services" [level=3] [ref=f2e239]
+              - paragraph [ref=f2e240]: Distribusi dan agregasi produk digital esensial, voucher elektronik, serta layanan utilitas digital untuk memenuhi kebutuhan gaya hidup masyarakat modern.
+            - generic [ref=f2e241]:
+              - generic [ref=f2e242]: Kapabilitas Terintegrasi
+              - generic [ref=f2e243]: Detail
+          - generic [ref=f2e247] [cursor=pointer]:
+            - generic [ref=f2e248]:
+              - generic [ref=f2e249]: Pilar 04
+              - heading "Gaming Digital Assets" [level=3] [ref=f2e254]
+              - paragraph [ref=f2e255]: Infrastruktur distribusi resmi dan terpercaya untuk mata uang dalam game, voucher hiburan interaktif, dan lisensi konten digital gaming.
+            - generic [ref=f2e256]:
+              - generic [ref=f2e257]: Kapabilitas Terintegrasi
+              - generic [ref=f2e258]: Detail
+          - generic [ref=f2e262] [cursor=pointer]:
+            - generic [ref=f2e263]:
+              - generic [ref=f2e264]: Pilar 05
+              - heading "Technology & Digital Business Development" [level=3] [ref=f2e270]
+              - paragraph [ref=f2e271]: Riset, pengembangan perangkat lunak proprietary, dan inkubasi model bisnis digital terdepan untuk memastikan keunggulan kompetitif jangka panjang.
+            - generic [ref=f2e272]:
+              - generic [ref=f2e273]: Kapabilitas Terintegrasi
+              - generic [ref=f2e274]: Detail
+          - generic [ref=f2e278]:
+            - generic [ref=f2e279]:
+              - heading "Sinergi Ekosistem & Integrasi API" [level=3] [ref=f2e284]
+              - paragraph [ref=f2e285]: Seluruh pilar usaha dirancang dapat dihubungkan melalui modul teknologi terpadu untuk efisiensi bisnis optimal.
+            - button "Buka Halaman Bidang Usaha" [ref=f2e287] [cursor=pointer]
+      - generic [ref=f2e289]:
+        - generic [ref=f2e291]:
+          - generic [ref=f2e292]:
+            - generic [ref=f2e293]:
+              - generic [ref=f2e294]: NILAI & BUDAYA
+              - generic [ref=f2e295]: /
+              - generic [ref=f2e296]: PRINSIP INTEGRITAS
+            - heading "Enam Fondasi Nilai Korporasi" [level=2] [ref=f2e297]
+          - button "Pelajari Seluruh Nilai" [ref=f2e298] [cursor=pointer]
+        - generic [ref=f2e302]:
+          - generic [ref=f2e304] [cursor=pointer]:
+            - generic [ref=f2e309]: Innovation
+            - generic [ref=f2e310]: Inovasi Berkelanjutan
+          - generic [ref=f2e312] [cursor=pointer]:
+            - generic [ref=f2e317]: Integrity
+            - generic [ref=f2e318]: Integritas & Kepatuhan
+          - generic [ref=f2e320] [cursor=pointer]:
+            - generic [ref=f2e325]: Excellence
+            - generic [ref=f2e326]: Keunggulan Operasional
+          - generic [ref=f2e328] [cursor=pointer]:
+            - generic [ref=f2e333]: Customer Focus
+            - generic [ref=f2e334]: Fokus pada Nilai Pengguna
+          - generic [ref=f2e336] [cursor=pointer]:
+            - generic [ref=f2e341]: Growth
+            - generic [ref=f2e342]: Pertumbuhan Bersama
+          - generic [ref=f2e344] [cursor=pointer]:
+            - generic [ref=f2e349]: Trust
+            - generic [ref=f2e350]: Kepercayaan yang Terjaga
+      - generic [ref=f2e354]:
+        - generic [ref=f2e355]:
+          - generic [ref=f2e356]: Kemitraan Korporat Resmi
+          - heading "Siap Membangun Ekosistem Niaga Digital Bersama Kami?" [level=2] [ref=f2e362]
+          - paragraph [ref=f2e363]: Hubungi tim perwakilan PT Lascramall Commerce Network untuk mendiskusikan peluang kerja sama strategis, integrasi produk digital, dan inovasi bisnis.
+        - button "Buka Halaman Kontak" [ref=f2e365] [cursor=pointer]
+  - contentinfo [ref=f2e369]:
+    - generic [ref=f2e370]:
+      - generic [ref=f2e371]:
+        - generic [ref=f2e372]:
+          - generic [ref=f2e373]:
+            - img "LASCRAMALL Emblem" [ref=f2e375]
+            - generic [ref=f2e376]:
+              - generic [ref=f2e377]:
+                - generic [ref=f2e378]: LASCRA
+                - generic [ref=f2e379]: MALL
+              - generic [ref=f2e380]: PT Lascramall Commerce Network
+          - paragraph [ref=f2e381]: PT Lascramall Commerce Network adalah perseroan terbatas yang bergerak dalam pengembangan ekosistem ecommerce, perdagangan digital, agregasi aset digital, dan inovasi teknologi niaga terintegrasi.
+          - generic [ref=f2e383]:
+            - text: PT Lascramall Commerce Network adalah bagian dari
+            - button "Deswartha Group" [ref=f2e384] [cursor=pointer]
+          - generic [ref=f2e387]:
+            - generic [ref=f2e388]: "Entitas Hukum Resmi Terdaftar:"
+            - text: PT LASCRAMALL COMMERCE NETWORK
+        - generic [ref=f2e389]:
+          - heading "Navigasi" [level=4] [ref=f2e390]
+          - list [ref=f2e391]:
+            - listitem [ref=f2e392]:
+              - button "Home" [ref=f2e393] [cursor=pointer]
+            - listitem [ref=f2e397]:
+              - button "Tentang Perusahaan" [ref=f2e398] [cursor=pointer]
+            - listitem [ref=f2e402]:
+              - button "Layanan & Bidang Usaha" [ref=f2e403] [cursor=pointer]
+            - listitem [ref=f2e407]:
+              - button "Parent Company (Deswartha)" [ref=f2e408] [cursor=pointer]
+            - listitem [ref=f2e412]:
+              - button "Nilai & Budaya" [ref=f2e413] [cursor=pointer]
+            - listitem [ref=f2e417]:
+              - button "Hubungi Kami" [ref=f2e418] [cursor=pointer]
+        - generic [ref=f2e422]:
+          - heading "Pilar Usaha" [level=4] [ref=f2e423]
+          - list [ref=f2e424]:
+            - listitem [ref=f2e425]:
+              - generic [ref=f2e427]: Ecommerce & Digital Commerce
+            - listitem [ref=f2e428]:
+              - generic [ref=f2e430]: Online Marketplace
+            - listitem [ref=f2e431]:
+              - generic [ref=f2e433]: Digital Products & Services
+            - listitem [ref=f2e434]:
+              - generic [ref=f2e436]: Gaming Digital Assets
+            - listitem [ref=f2e437]:
+              - generic [ref=f2e439]: Technology & Digital Business Development
+        - generic [ref=f2e440]:
+          - heading "Kantor Pusat & Kontak" [level=4] [ref=f2e441]
+          - generic [ref=f2e442]:
+            - generic [ref=f2e443]: Jl. Tambun Rengas. Cakung Timur, Jakarta Timur 13910, Indonesia
+            - link "+62 815 1852 500" [ref=f2e451] [cursor=pointer]:
+              - /url: tel:+62 815 1852 500
+            - link "lascramall@gmail.com" [ref=f2e456] [cursor=pointer]:
+              - /url: mailto:lascramall@gmail.com
+      - generic [ref=f2e457]:
+        - generic [ref=f2e458]: Copyright © 2026 PT Lascramall Commerce Network. All Rights Reserved.
+        - generic [ref=f2e459]: Website resmi profil korporasi. Tidak melayani transaksi ritel langsung.
